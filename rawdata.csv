@@ -1,0 +1,550 @@
+#
+# Results on Mon, 11 Dec 2023 06:11:38 GMT
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 OPR/105.0.0.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,Start,1702274989912,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,End,1702274990958,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,Start,1702274990959,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,1,0,LanguageBackground,NULL,DropDown,mcq,Selected,L1,1702274992895,0
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,End,1702274994935,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,Start,1702274994936,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,3,0,AgeQ,NULL,TextInput,Age,EnterReturn,34,1702274996598,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,3,0,AgeQ,NULL,TextInput,Age,Final,34,1702274997502,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,3,0,AgeQ,NULL,TextInput,Age,First,,1702274996258,3
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,End,1702274997503,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,Start,1702274997504,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,Yes%2C 3 years,1702275004912,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,2,0,JapanQ,NULL,TextInput,Japan,Final,Yes%2C 3 years,1702275005911,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,2,0,JapanQ,NULL,TextInput,Japan,First,,1702274999068,CapsLock
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,End,1702275005911,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,Start,1702275005913,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,7,0,Item1P,NULL,TextInput,textResponse,EnterReturn,hola,1702275016128,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,7,0,Item1P,NULL,TextInput,textResponse,Final,hola,1702275016134,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,7,0,Item1P,NULL,TextInput,textResponse,First,,1702275014321,h
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,End,1702275016134,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,Start,1702275016135,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,10,0,Filler2,NULL,TextInput,textResponse,EnterReturn,picking up pears,1702275027283,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,10,0,Filler2,NULL,TextInput,textResponse,Final,picking up pears,1702275027285,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,10,0,Filler2,NULL,TextInput,textResponse,First,,1702275024024,p
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,End,1702275027285,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,Start,1702275027286,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,8,0,Item2A,NULL,TextInput,textResponse,EnterReturn,goat is mad,1702275035748,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,8,0,Item2A,NULL,TextInput,textResponse,Final,goat is mad,1702275035750,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,8,0,Item2A,NULL,TextInput,textResponse,First,,1702275033735,g
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,End,1702275035750,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,Start,1702275035751,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,6,0,Filler1,NULL,TextInput,textResponse,EnterReturn,whistling is done,1702275049496,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,6,0,Filler1,NULL,TextInput,textResponse,Final,whistling is done,1702275049498,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,6,0,Filler1,NULL,TextInput,textResponse,First,,1702275045318,w
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,End,1702275049498,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,Start,1702275049499,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,9,0,Item2P,NULL,TextInput,textResponse,EnterReturn,tv cut like in old days,1702275063242,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,9,0,Item2P,NULL,TextInput,textResponse,Final,tv cut like in old days,1702275063244,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,9,0,Item2P,NULL,TextInput,textResponse,First,,1702275057886,t
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,End,1702275063244,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,Start,1702275063246,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,5,0,Item1A,NULL,TextInput,textResponse,EnterReturn,pears are gathered,1702275076845,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,5,0,Item1A,NULL,TextInput,textResponse,Final,pears are gathered,1702275076847,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,5,0,Item1A,NULL,TextInput,textResponse,First,,1702275071258,p
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,End,1702275076847,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,Start,1702275076848,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,11,0,Filler3,NULL,TextInput,textResponse,EnterReturn,hat falls off,1702275087644,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,11,0,Filler3,NULL,TextInput,textResponse,Final,hat falls off,1702275087645,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,11,0,Filler3,NULL,TextInput,textResponse,First,,1702275085148,h
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,End,1702275087645,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,Start,1702275087645,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,12,0,Filler4,NULL,TextInput,textResponse,EnterReturn,kid fell down,1702275097957,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,12,0,Filler4,NULL,TextInput,textResponse,Final,kid fell down,1702275097960,NULL
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,12,0,Filler4,NULL,TextInput,textResponse,First,,1702275095268,k
+1702275098,e6c1f8dca6f43252393410515913f4d9,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,End,1702275097960,NULL
+#
+# Results on Tue, 12 Dec 2023 00:28:44 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,Start,1702340498414,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,End,1702340499862,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,Start,1702340499868,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,1,0,LanguageBackground,NULL,DropDown,mcq,Selected,L2,1702340502115,1
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,End,1702340503252,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,Start,1702340503255,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,3,0,AgeQ,NULL,TextInput,Age,EnterReturn,35,1702340506538,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,3,0,AgeQ,NULL,TextInput,Age,Final,35,1702340507707,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,3,0,AgeQ,NULL,TextInput,Age,First,,1702340505121,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,End,1702340507708,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,Start,1702340507715,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,No,1702340511466,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,2,0,JapanQ,NULL,TextInput,Japan,Final,No,1702340512561,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,2,0,JapanQ,NULL,TextInput,Japan,First,,1702340510496,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,End,1702340512562,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,Start,1702340512566,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,9,0,Item2P,NULL,Video,Clip5,buffer,0,1702340521734,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,9,0,Item2P,NULL,TextInput,textResponse,EnterReturn,子供たちはどこかに歩いてます。,1702340552528,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,9,0,Item2P,NULL,TextInput,textResponse,Final,子供たちはどこかに歩いてます。,1702340552543,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,9,0,Item2P,NULL,TextInput,textResponse,First,,1702340528341,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,End,1702340552544,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,Start,1702340552554,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,7,0,Item1P,NULL,Video,Clip4,buffer,0,1702340562993,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,7,0,Item1P,NULL,TextInput,textResponse,EnterReturn,朝です。,1702340575460,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,7,0,Item1P,NULL,TextInput,textResponse,Final,朝です。,1702340575469,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,7,0,Item1P,NULL,TextInput,textResponse,First,,1702340570077,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,End,1702340575469,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,Start,1702340575475,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,5,0,Item1A,NULL,Video,Clip1,buffer,0,1702340583917,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,5,0,Item1A,NULL,TextInput,textResponse,EnterReturn,男の人は果物を置いたんです。,1702340618651,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,5,0,Item1A,NULL,TextInput,textResponse,Final,男の人は果物を置いたんです。,1702340618662,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,5,0,Item1A,NULL,TextInput,textResponse,First,,1702340593256,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,End,1702340618663,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,Start,1702340618671,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,12,0,Filler4,NULL,TextInput,textResponse,EnterReturn,男の子は自転車から転んだったんです。,1702340680513,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,12,0,Filler4,NULL,TextInput,textResponse,Final,男の子は自転車から転んだったんです。,1702340680525,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,12,0,Filler4,NULL,TextInput,textResponse,First,,1702340631135,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,End,1702340680525,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,Start,1702340680531,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,8,0,Item2A,NULL,Video,Clip2,buffer,0,1702340690503,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,8,0,Item2A,NULL,TextInput,textResponse,EnterReturn,動物は果物が食べたいみたいです。,1702340738202,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,8,0,Item2A,NULL,TextInput,textResponse,Final,動物は果物が食べたいみたいです。,1702340738209,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,8,0,Item2A,NULL,TextInput,textResponse,First,,1702340696164,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,End,1702340738210,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,Start,1702340738216,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,10,0,Filler2,NULL,TextInput,textResponse,EnterReturn,子供たちは果物を掃除しているんです。,1702340768623,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,10,0,Filler2,NULL,TextInput,textResponse,Final,子供たちは果物を掃除しているんです。,1702340768633,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,10,0,Filler2,NULL,TextInput,textResponse,First,,1702340747590,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,End,1702340768633,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,Start,1702340768640,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,6,0,Filler1,NULL,TextInput,textResponse,EnterReturn,忘れ物です。,1702340781568,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,6,0,Filler1,NULL,TextInput,textResponse,Final,忘れ物です。,1702340781582,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,6,0,Filler1,NULL,TextInput,textResponse,First,,1702340776767,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,End,1702340781583,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,Start,1702340781595,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,11,0,Filler3,NULL,Video,Fill3,buffer,0,1702340792236,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,11,0,Filler3,NULL,TextInput,textResponse,EnterReturn,馬に乗っている時、帽子が転んだんです。,1702340925431,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,11,0,Filler3,NULL,TextInput,textResponse,Final,馬に乗っている時、帽子が転んだんです。,1702340925434,NULL
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,11,0,Filler3,NULL,TextInput,textResponse,First,,1702340812135,Unidentified
+1702340924,3386a30a075e977c6100fbe6e99baa49,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,End,1702340925434,NULL
+#
+# Results on Tue, 12 Dec 2023 01:15:11 GMT
+# USER AGENT: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,Start,1702343322613,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,End,1702343372017,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,Start,1702343372042,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,1,0,LanguageBackground,NULL,DropDown,mcq,Selected,L1,1702343380976,0
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,End,1702343382854,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,Start,1702343382858,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,3,0,AgeQ,NULL,TextInput,Age,EnterReturn,41,1702343395161,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,3,0,AgeQ,NULL,TextInput,Age,Final,41,1702343397024,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,3,0,AgeQ,NULL,TextInput,Age,First,,1702343388398,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,End,1702343397025,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,Start,1702343397029,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,30years,1702343465342,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,30years,1702343467374,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,2,0,JapanQ,NULL,TextInput,Japan,Final,30years,1702343469677,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,2,0,JapanQ,NULL,TextInput,Japan,First,,1702343432165,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,End,1702343469678,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,Start,1702343469685,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,5,0,Item1A,NULL,Video,Clip1,buffer,0,1702343492970,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,5,0,Item1A,NULL,TextInput,textResponse,EnterReturn,梨を収穫しています,1702343528945,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,5,0,Item1A,NULL,TextInput,textResponse,Final,梨を収穫しています,1702343528955,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,5,0,Item1A,NULL,TextInput,textResponse,First,,1702343515722,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,End,1702343528956,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,Start,1702343528962,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,6,0,Filler1,NULL,Video,Fill1,buffer,0,1702343536514,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,6,0,Filler1,NULL,TextInput,textResponse,EnterReturn,男の子が友達に呼び止められました。,1702343561164,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,6,0,Filler1,NULL,TextInput,textResponse,Final,男の子が友達に呼び止められました。,1702343561169,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,6,0,Filler1,NULL,TextInput,textResponse,First,,1702343545745,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,End,1702343561169,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,Start,1702343561173,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,12,0,Filler4,NULL,Video,Fill4,buffer,0,1702343569611,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,12,0,Filler4,NULL,TextInput,textResponse,EnterReturn,男の子たちは何かを企んでいます,1702343594101,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,12,0,Filler4,NULL,TextInput,textResponse,Final,男の子たちは何かを企んでいます,1702343594105,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,12,0,Filler4,NULL,TextInput,textResponse,First,,1702343579151,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,End,1702343594105,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,Start,1702343594112,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,11,0,Filler3,NULL,TextInput,textResponse,EnterReturn,男の子は、すれ違い様に、帽子を取られてしまいました。,1702343631575,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,11,0,Filler3,NULL,TextInput,textResponse,Final,男の子は、すれ違い様に、帽子を取られてしまいました。,1702343631581,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,11,0,Filler3,NULL,TextInput,textResponse,First,,1702343607236,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,End,1702343631581,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,Start,1702343631588,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,9,0,Item2P,NULL,TextInput,textResponse,EnterReturn,男の子たちは山道を歩きます。,1702343653822,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,9,0,Item2P,NULL,TextInput,textResponse,Final,男の子たちは山道を歩きます。,1702343653828,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,9,0,Item2P,NULL,TextInput,textResponse,First,,1702343641284,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,End,1702343653828,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,Start,1702343653833,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,7,0,Item1P,NULL,TextInput,textResponse,EnterReturn,山奥で鶏が鳴いています,1702343673464,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,7,0,Item1P,NULL,TextInput,textResponse,Final,山奥で鶏が鳴いています,1702343673468,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,7,0,Item1P,NULL,TextInput,textResponse,First,,1702343661242,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,End,1702343673468,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,Start,1702343673473,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,10,0,Filler2,NULL,TextInput,textResponse,EnterReturn,落ちた梨をみんなで拾います。,1702343693423,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,10,0,Filler2,NULL,TextInput,textResponse,Final,落ちた梨をみんなで拾います。,1702343693430,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,10,0,Filler2,NULL,TextInput,textResponse,First,,1702343682638,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,End,1702343693430,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,Start,1702343693435,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,8,0,Item2A,NULL,TextInput,textResponse,EnterReturn,やぎが連れてこられました,1702343711849,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,8,0,Item2A,NULL,TextInput,textResponse,Final,やぎが連れてこられました,1702343711853,NULL
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,8,0,Item2A,NULL,TextInput,textResponse,First,,1702343700828,Unidentified
+1702343711,aeee9e2b6fbca693b88338ab9e76ed76,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,End,1702343711854,NULL
+#
+# Results on Tue, 12 Dec 2023 01:44:21 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/13.19.1
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,Start,1702345032664,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,End,1702345034190,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,Start,1702345034195,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,1,0,LanguageBackground,NULL,DropDown,mcq,Selected,L1,1702345038870,0
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,End,1702345040863,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,Start,1702345040871,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,3,0,AgeQ,NULL,TextInput,Age,First,,1702345044834,4
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,3,0,AgeQ,NULL,TextInput,Age,EnterReturn,49,1702345048506,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,3,0,AgeQ,NULL,TextInput,Age,Final,49,1702345050735,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,End,1702345050736,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,Start,1702345050740,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,2,0,JapanQ,NULL,TextInput,Japan,First,,1702345053590,2
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,24 years,1702345059089,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,2,0,JapanQ,NULL,TextInput,Japan,Final,24 years,1702345060130,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,End,1702345060131,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,Start,1702345060139,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,11,0,Filler3,NULL,TextInput,textResponse,First,,1702345092768,Shift
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,11,0,Filler3,NULL,TextInput,textResponse,EnterReturn,カウボーイの子どもがすれ違いざまにカウボーイハットを取られました,1702345155104,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,11,0,Filler3,NULL,TextInput,textResponse,Final,カウボーイの子どもがすれ違いざまにカウボーイハットを取られました,1702345155278,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,End,1702345155279,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,Start,1702345155300,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,8,0,Item2A,NULL,TextInput,textResponse,First,,1702345183800,い
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,8,0,Item2A,NULL,TextInput,textResponse,EnterReturn,子供の山羊は行きたくないけど連れてかれてます,1702345217883,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,End,1702345217914,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,8,0,Item2A,NULL,TextInput,textResponse,Final,子供の山羊は行きたくないけど連れてかれてます,1702345217914,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,Start,1702345217929,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,6,0,Filler1,NULL,TextInput,textResponse,First,,1702345232271,ふ
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,6,0,Filler1,NULL,TextInput,textResponse,EnterReturn,おしちゃりで振り向くと友達がついてきました,1702345273205,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,End,1702345273222,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,6,0,Filler1,NULL,TextInput,textResponse,Final,おしちゃりで振り向くと友達がついてきました,1702345273222,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,Start,1702345273231,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,7,0,Item1P,NULL,TextInput,textResponse,First,,1702345301132,き
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,7,0,Item1P,NULL,TextInput,textResponse,EnterReturn,木の間から山が見えます,1702345312958,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,7,0,Item1P,NULL,TextInput,textResponse,Final,木の間から山が見えます,1702345312984,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,End,1702345312985,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,Start,1702345312995,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,10,0,Filler2,NULL,TextInput,textResponse,First,,1702345328325,こ
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,10,0,Filler2,NULL,TextInput,textResponse,EnterReturn,子供達が洋梨をたくさんおとしてまいました,1702345352286,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,End,1702345352335,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,10,0,Filler2,NULL,TextInput,textResponse,Final,子供達が洋梨をたくさんおとしてまいました,1702345352335,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,Start,1702345352351,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,12,0,Filler4,NULL,TextInput,textResponse,First,,1702345373705,お
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,12,0,Filler4,NULL,TextInput,textResponse,EnterReturn,落としたままです,1702345382191,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,End,1702345382210,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,12,0,Filler4,NULL,TextInput,textResponse,Final,落としたままです,1702345382210,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,Start,1702345382220,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,5,0,Item1A,NULL,TextInput,textResponse,First,,1702345395937,と
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,5,0,Item1A,NULL,TextInput,textResponse,EnterReturn,もぎたての洋梨をエプロンのポケットからテーブルにあけました,1702345422626,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,End,1702345422641,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,5,0,Item1A,NULL,TextInput,textResponse,Final,もぎたての洋梨をエプロンのポケットからテーブルにあけました,1702345422641,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,Start,1702345422649,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,9,0,Item2P,NULL,TextInput,textResponse,First,,1702345440894,つ
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,9,0,Item2P,NULL,TextInput,textResponse,EnterReturn,3人は次の仕事へ向かいます,1702345460943,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,End,1702345460963,NULL
+1702345461,c6bc5a05fa81ffcb1f9a04f998703a20,PennController,9,0,Item2P,NULL,TextInput,textResponse,Final,3人は次の仕事へ向かいます,1702345460963,NULL
+#
+# Results on Tue, 12 Dec 2023 01:59:58 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,Start,1702345785058,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,End,1702345804273,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,Start,1702345804277,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,1,0,LanguageBackground,NULL,DropDown,mcq,Selected,L1,1702345813039,0
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,End,1702345814852,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,Start,1702345814853,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,3,0,AgeQ,NULL,TextInput,Age,EnterReturn,68,1702345835135,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,3,0,AgeQ,NULL,TextInput,Age,Final,68,1702345836745,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,3,0,AgeQ,NULL,TextInput,Age,First,,1702345821691,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,End,1702345836745,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,Start,1702345836747,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,47,1702345853884,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,2,0,JapanQ,NULL,TextInput,Japan,Final,47,1702345855198,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,2,0,JapanQ,NULL,TextInput,Japan,First,,1702345847735,5
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,End,1702345855198,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,Start,1702345855200,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,8,0,Item2A,NULL,Video,Clip2,buffer,0,1702345873723,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,8,0,Item2A,NULL,TextInput,textResponse,EnterReturn,男の人がロバを連れて歩いている。ロバは目の前の樽の中が気になる様子である。,1702345927673,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,8,0,Item2A,NULL,TextInput,textResponse,Final,男の人がロバを連れて歩いている。ロバは目の前の樽の中が気になる様子である。,1702345927676,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,8,0,Item2A,NULL,TextInput,textResponse,First,,1702345882700,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,End,1702345927676,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,Start,1702345927678,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,11,0,Filler3,NULL,Video,Fill3,buffer,0,1702345953064,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,11,0,Filler3,NULL,TextInput,textResponse,EnterReturn,馬に乗った二人の少年が正対して走っている。すれ違いざまに、一方の少年は他方の少年の帽子を取った。,1702346021691,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,11,0,Filler3,NULL,TextInput,textResponse,Final,馬に乗った二人の少年が正対して走っている。すれ違いざまに、一方の少年は他方の少年の帽子を取った。,1702346021692,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,11,0,Filler3,NULL,TextInput,textResponse,First,,1702345963843,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,End,1702346021692,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,Start,1702346021694,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,9,0,Item2P,NULL,Video,Clip5,buffer,0,1702346043156,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,9,0,Item2P,NULL,TextInput,textResponse,EnterReturn,三人の子供が野山を散歩している。廻りには小鳥の鳴き声が聞こえる。,1702346065144,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,9,0,Item2P,NULL,TextInput,textResponse,Final,三人の子供が野山を散歩している。廻りには小鳥の鳴き声が聞こえる。,1702346065145,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,9,0,Item2P,NULL,TextInput,textResponse,First,,1702346030569,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,End,1702346065145,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,Start,1702346065147,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,7,0,Item1P,NULL,Video,Clip4,buffer,0,1702346079162,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,7,0,Item1P,NULL,Video,Clip4,buffer,0,1702346089139,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,7,0,Item1P,NULL,TextInput,textResponse,EnterReturn,女の子が、木の上に飼っている鶏の卵を、梯子を使って取りに行く。,1702346128832,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,7,0,Item1P,NULL,TextInput,textResponse,Final,女の子が、木の上に飼っている鶏の卵を、梯子を使って取りに行く。,1702346128835,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,7,0,Item1P,NULL,TextInput,textResponse,First,,1702346100780,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,End,1702346128835,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,Start,1702346128837,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,5,0,Item1A,NULL,Video,Clip1,buffer,0,1702346141366,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,5,0,Item1A,NULL,Video,Clip1,buffer,0,1702346151131,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,5,0,Item1A,NULL,TextInput,textResponse,EnterReturn,農夫が林檎をエプロンの中から取り出した。,1702346186977,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,5,0,Item1A,NULL,TextInput,textResponse,Final,農夫が林檎をエプロンの中から取り出した。,1702346186979,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,5,0,Item1A,NULL,TextInput,textResponse,First,,1702346161396,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,End,1702346186979,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,Start,1702346186980,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,6,0,Filler1,NULL,Video,Fill1,buffer,0,1702346197031,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,6,0,Filler1,NULL,TextInput,textResponse,EnterReturn,自転車を曳いている子供は、後ろの誰かの口笛で振り向いた。,1702346237234,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,6,0,Filler1,NULL,TextInput,textResponse,Final,自転車を曳いている子供は、後ろの誰かの口笛で振り向いた。,1702346237235,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,6,0,Filler1,NULL,TextInput,textResponse,First,,1702346201430,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,End,1702346237236,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,Start,1702346237237,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,12,0,Filler4,NULL,Video,Fill4,buffer,0,1702346245774,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,12,0,Filler4,NULL,Video,Fill4,buffer,0,1702346253780,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,12,0,Filler4,NULL,TextInput,textResponse,EnterReturn,自転車の籠にリンゴを入れて走っていた少年は、一群の少年の前を通る時に転んで、林檎を道路に落としてしまった。,1702346345908,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,12,0,Filler4,NULL,TextInput,textResponse,Final,自転車の籠にリンゴを入れて走っていた少年は、一群の少年の前を通る時に転んで、林檎を道路に落としてしまった。,1702346345911,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,12,0,Filler4,NULL,TextInput,textResponse,First,,1702346264449,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,End,1702346345911,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,Start,1702346345912,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,10,0,Filler2,NULL,TextInput,textResponse,EnterReturn,よく見たらリンゴではなく、洋梨だった。落ちた洋梨は、見ていた少年たちも一緒に拾ってくれた。,1702346398522,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,10,0,Filler2,NULL,TextInput,textResponse,Final,よく見たらリンゴではなく、洋梨だった。落ちた洋梨は、見ていた少年たちも一緒に拾ってくれた。,1702346398523,NULL
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,10,0,Filler2,NULL,TextInput,textResponse,First,,1702346362299,Process
+1702346398,47ae8df9a23f03f3b3e7b6fc3307b563,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,End,1702346398523,NULL
+#
+# Results on Tue, 12 Dec 2023 03:59:37 GMT
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 16_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/120.0.6099.101 Mobile/15E148 Safari/604.1
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,Start,1702353212512,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,End,1702353234844,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,Start,1702353234860,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,1,0,LanguageBackground,NULL,DropDown,mcq,Selected,L1,1702353243695,0
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,End,1702353282657,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,Start,1702353282673,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,3,0,AgeQ,NULL,TextInput,Age,First,,1702353285662,2
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,3,0,AgeQ,NULL,TextInput,Age,EnterReturn,28,1702353293762,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,End,1702353294623,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,3,0,AgeQ,NULL,TextInput,Age,Final,28,1702353294623,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,Start,1702353294626,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,2,0,JapanQ,NULL,TextInput,Japan,First,,1702353300405,2
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,24,1702353325542,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,End,1702353326286,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,2,0,JapanQ,NULL,TextInput,Japan,Final,24,1702353326286,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,Start,1702353326290,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,6,0,Filler1,NULL,TextInput,textResponse,First,,1702353346956,o
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,6,0,Filler1,NULL,TextInput,textResponse,EnterReturn,自転車を引いて歩いている男の子が立ち止まって後ろを振り返ると、帽子を持った男の子がその子の方に向かって歩いてきている。2人の男の子が後ろからその様子を見ている。,1702353464487,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,6,0,Filler1,NULL,TextInput,textResponse,Final,自転車を引いて歩いている男の子が立ち止まって後ろを振り返ると、帽子を持った男の子がその子の方に向かって歩いてきている。2人の男の子が後ろからその様子を見ている。,1702353464524,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,End,1702353464525,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,Start,1702353464536,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,9,0,Item2P,NULL,TextInput,textResponse,First,,1702353468107,Backspace
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,9,0,Item2P,NULL,TextInput,textResponse,EnterReturn,自転車を弾いて歩いている男の子が後ろを振り返ると、帽子を持った男の子がその子に向かって歩いて行った。後ろに2人の男の子たちが後ろで見ている。,1702353576476,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,9,0,Item2P,NULL,TextInput,textResponse,Final,自転車を弾いて歩いている男の子が後ろを振り返ると、帽子を持った男の子がその子に向かって歩いて行った。後ろに2人の男の子たちが後ろで見ている。,1702353576506,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,End,1702353576507,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,Start,1702353576514,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,7,0,Item1P,NULL,TextInput,textResponse,First,,1702353576661,Enter
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,7,0,Item1P,NULL,TextInput,textResponse,EnterReturn,,1702353576661,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,End,1702353576663,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,7,0,Item1P,NULL,TextInput,textResponse,Final,,1702353576663,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,Start,1702353576667,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,5,0,Item1A,NULL,TextInput,textResponse,First,,1702353576819,Enter
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,5,0,Item1A,NULL,TextInput,textResponse,EnterReturn,,1702353576819,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,End,1702353576821,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,5,0,Item1A,NULL,TextInput,textResponse,Final,,1702353576821,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,Start,1702353576823,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,8,0,Item2A,NULL,TextInput,textResponse,First,,1702353576955,Enter
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,8,0,Item2A,NULL,TextInput,textResponse,EnterReturn,,1702353576955,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,End,1702353576956,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,8,0,Item2A,NULL,TextInput,textResponse,Final,,1702353576956,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,Start,1702353576958,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,11,0,Filler3,NULL,TextInput,textResponse,First,,1702353577081,Enter
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,11,0,Filler3,NULL,TextInput,textResponse,EnterReturn,,1702353577081,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,End,1702353577083,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,11,0,Filler3,NULL,TextInput,textResponse,Final,,1702353577083,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,Start,1702353577084,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,12,0,Filler4,NULL,TextInput,textResponse,First,,1702353577221,Enter
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,12,0,Filler4,NULL,TextInput,textResponse,EnterReturn,,1702353577221,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,End,1702353577222,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,12,0,Filler4,NULL,TextInput,textResponse,Final,,1702353577222,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,Start,1702353577223,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,10,0,Filler2,NULL,TextInput,textResponse,First,,1702353577372,Enter
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,10,0,Filler2,NULL,TextInput,textResponse,EnterReturn,,1702353577372,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,End,1702353577374,NULL
+1702353577,6ded7249f0a7fb101292ca388b051f4f,PennController,10,0,Filler2,NULL,TextInput,textResponse,Final,,1702353577374,NULL
+#
+# Results on Tue, 12 Dec 2023 04:23:30 GMT
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Results reception time.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Order number of item.
+# 5. Inner element number.
+# 6. Label.
+# 7. Latin Square Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,Start,1702354467745,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,0,0,Introduction,NULL,PennController,0,_Trial_,End,1702354469732,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,Start,1702354469733,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,1,0,LanguageBackground,NULL,DropDown,mcq,Selected,L1,1702354471196,0
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,1,0,LanguageBackground,NULL,PennController,1,_Trial_,End,1702354472168,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,Start,1702354472169,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,3,0,AgeQ,NULL,TextInput,Age,EnterReturn,28,1702354474650,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,3,0,AgeQ,NULL,TextInput,Age,Final,28,1702354476520,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,3,0,AgeQ,NULL,TextInput,Age,First,,1702354474338,2
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,3,0,AgeQ,NULL,PennController,3,_Trial_,End,1702354476520,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,Start,1702354476521,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,24 years,1702354484010,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,2,0,JapanQ,NULL,TextInput,Japan,EnterReturn,24 years,1702354484290,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,2,0,JapanQ,NULL,TextInput,Japan,Final,24 years,1702354485495,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,2,0,JapanQ,NULL,TextInput,Japan,First,,1702354481594,2
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,2,0,JapanQ,NULL,PennController,2,_Trial_,End,1702354485496,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,Start,1702354485496,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,6,0,Filler1,NULL,TextInput,textResponse,EnterReturn,自転車を引いて歩いている男の子が後ろを振り返ると、帽子を持った別の男の子がその子に向かって歩いてきている。その様子を後ろに立って見ている男の子が二人いる。,1702354543524,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,6,0,Filler1,NULL,TextInput,textResponse,Final,自転車を引いて歩いている男の子が後ろを振り返ると、帽子を持った別の男の子がその子に向かって歩いてきている。その様子を後ろに立って見ている男の子が二人いる。,1702354543526,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,6,0,Filler1,NULL,TextInput,textResponse,First,,1702354487114,Shift
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,6,0,Filler1,NULL,PennController,6,_Trial_,End,1702354543526,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,Start,1702354543527,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,Video,Fill4,buffer,0,1702354551700,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,Video,Fill4,buffer,0,1702354558071,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,Video,Fill4,buffer,0,1702354569203,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,TextInput,textResponse,EnterReturn,男の子が自転車から転倒して足を払っている。顔を見上げると、３人の男の子がいて、そのうちの一人は卓球のラケットのようなものを持っている。,1702354672091,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,TextInput,textResponse,Final,男の子が自転車から転倒して足を払っている。顔を見上げると、３人の男の子がいて、そのうちの一人は卓球のラケットのようなものを持っている。,1702354672093,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,TextInput,textResponse,First,,1702354574780,Process
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,12,0,Filler4,NULL,PennController,12,_Trial_,End,1702354672093,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,Start,1702354672093,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,7,0,Item1P,NULL,Video,Clip4,buffer,0,1702354680505,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,7,0,Item1P,NULL,Video,Clip4,buffer,0,1702354690034,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,7,0,Item1P,NULL,TextInput,textResponse,EnterReturn,気が生い茂っている草原の中で、鶏の鳴き声が何度も聞こえる。,1702354720394,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,7,0,Item1P,NULL,TextInput,textResponse,Final,気が生い茂っている草原の中で、鶏の鳴き声が何度も聞こえる。,1702354720395,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,7,0,Item1P,NULL,TextInput,textResponse,First,,1702354695427,Process
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,7,0,Item1P,NULL,PennController,7,_Trial_,End,1702354720395,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,Start,1702354720396,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,8,0,Item2A,NULL,Video,Clip2,buffer,0,1702354755051,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,8,0,Item2A,NULL,TextInput,textResponse,EnterReturn,男の人がロープを使って山羊を引いて籠のそばを歩いている。,1702354768146,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,8,0,Item2A,NULL,TextInput,textResponse,Final,男の人がロープを使って山羊を引いて籠のそばを歩いている。,1702354768146,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,8,0,Item2A,NULL,TextInput,textResponse,First,,1702354736596,Process
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,8,0,Item2A,NULL,PennController,8,_Trial_,End,1702354768146,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,Start,1702354768147,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,11,0,Filler3,NULL,Video,Fill3,buffer,0,1702354777065,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,11,0,Filler3,NULL,TextInput,textResponse,EnterReturn,男の子二人が馬に乗って反対方向からお互いに向かって走っている。すれ違ったときに一人の男の子の帽子が脱げてしまった。,1702354837849,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,11,0,Filler3,NULL,TextInput,textResponse,Final,男の子二人が馬に乗って反対方向からお互いに向かって走っている。すれ違ったときに一人の男の子の帽子が脱げてしまった。,1702354837850,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,11,0,Filler3,NULL,TextInput,textResponse,First,,1702354779732,Process
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,11,0,Filler3,NULL,PennController,11,_Trial_,End,1702354837850,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,Start,1702354837851,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,5,0,Item1A,NULL,TextInput,textResponse,EnterReturn,赤いハンカチを首に巻いた男性が、自分の着ているエプロンの上に集めたリンゴを机の上にほかのリンゴと一緒に並べている。,1702354883603,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,5,0,Item1A,NULL,TextInput,textResponse,Final,赤いハンカチを首に巻いた男性が、自分の着ているエプロンの上に集めたリンゴを机の上にほかのリンゴと一緒に並べている。,1702354883604,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,5,0,Item1A,NULL,TextInput,textResponse,First,,1702354847314,Process
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,5,0,Item1A,NULL,PennController,5,_Trial_,End,1702354883604,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,Start,1702354883605,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,9,0,Item2P,NULL,Video,Clip5,buffer,0,1702354892690,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,9,0,Item2P,NULL,TextInput,textResponse,EnterReturn,３人の男の子が奥に向かって道を歩いている。周りには茂みがあり、虫の音が聞こえる。,1702354938113,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,9,0,Item2P,NULL,TextInput,textResponse,Final,３人の男の子が奥に向かって道を歩いている。周りには茂みがあり、虫の音が聞こえる。,1702354938114,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,9,0,Item2P,NULL,TextInput,textResponse,First,,1702354896356,Process
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,9,0,Item2P,NULL,PennController,9,_Trial_,End,1702354938114,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,Start,1702354938115,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,Video,Fill2,buffer,0,1702354947019,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,Video,Fill2,buffer,0,1702354974112,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,Video,Fill2,buffer,0,1702354981367,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,Video,Fill2,buffer,0,1702354997914,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,TextInput,textResponse,EnterReturn,一人の男のは自転車を支えているが、ほかの絵３人の男の子は籠に洋ナシを入れるのを手伝っている。,1702355010498,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,TextInput,textResponse,Final,一人の男のは自転車を支えているが、ほかの絵３人の男の子は籠に洋ナシを入れるのを手伝っている。,1702355010499,NULL
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,TextInput,textResponse,First,,1702354954539,Process
+1702355010,1332019c4970f185545c15e3ae65550c,PennController,10,0,Filler2,NULL,PennController,10,_Trial_,End,1702355010499,NULL

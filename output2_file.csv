@@ -1,0 +1,61 @@
+,Participant_ID,Label,PennElementName.,Value.,Translation,Ideophone Count,Adjective Count,Adverb Count
+1,Participant_001,AgeQ,Age,35,,,,
+2,Participant_001,JapanQ,Japan,No,,,,
+3,Participant_001,PassItem,textResponse,子供たちはどこかに歩いてます。,The children are walking somewhere.,0,0,0
+4,Participant_001,PassItem,textResponse,朝です。,It's morning.,0,0,0
+5,Participant_001,ActiveItem,textResponse,男の人は果物を置いたんです。,The man put some fruit down.,0,0,0
+6,Participant_001,Filler,textResponse,男の子は自転車から転んだったんです。,The boy fell off his bicycle.,0,0,0
+7,Participant_001,ActiveItem,textResponse,動物は果物が食べたいみたいです。,The animal seems to want to eat the fruit.,0,0,0
+8,Participant_001,Filler,textResponse,子供たちは果物を掃除しているんです。,The children are dusting off the fruits.,0,0,0
+9,Participant_001,Filler,textResponse,忘れ物です。,Something that was forgotten. ,0,0,0
+10,Participant_001,Filler,textResponse,馬に乗っている時、帽子が転んだんです。,His hat fell off while he was riding a horse.,0,0,0
+11,Participant_002,AgeQ,Age,41,,,,
+12,Participant_002,JapanQ,Japan,30,,,,
+13,Participant_002,ActiveItem,textResponse,梨を収穫しています,harvesting pears,0,0,0
+14,Participant_002,Filler,textResponse,男の子が友達に呼び止められました。,A boy was called by his friend.,0,0,0
+15,Participant_002,Filler,textResponse,男の子たちは何かを企んでいます,The boys are planning something,0,0,0
+16,Participant_002,Filler,textResponse,男の子は、すれ違い様に、帽子を取られてしまいました。,"As the boys passed each other, the boy’s hat was picked up.  ",0,0,0
+17,Participant_002,PassItem,textResponse,男の子たちは山道を歩きます。,The boys walk along the mountain path.,0,0,0
+18,Participant_002,PassItem,textResponse,山奥で鶏が鳴いています,A birds are singing deep in the mountains,0,0,0
+19,Participant_002,Filler,textResponse,落ちた梨をみんなで拾います。,Everyone picks up the fallen pears.,0,0,0
+20,Participant_002,ActiveItem,textResponse,やぎが連れてこられました,A goat was taken along. ,0,0,0
+21,Participant_003,AgeQ,Age,49,,,,
+22,Participant_003,JapanQ,Japan,24,,,,
+23,Participant_003,Filler,textResponse,カウボーイの子どもがすれ違いざまにカウボーイハットを取られました,A cowboy's child had his cowboy hat taken off while passing each other.,0,0,0
+24,Participant_003,ActiveItem,textResponse,子供の山羊は行きたくないけど連れてかれてます,"The baby goat doesn't want to go, but he's being taken away.",0,0,0
+25,Participant_003,Filler,textResponse,おしちゃりで振り向くと友達がついてきました,"When he turned around, his friend was following him.",0,0,0
+26,Participant_003,PassItem,textResponse,木の間から山が見えます,You can see the mountains through the trees,0,0,0
+27,Participant_003,Filler,textResponse,子供達が洋梨をたくさんおとしてまいました,The children dropped a lot of pears.,0,0,0
+28,Participant_003,Filler,textResponse,落としたままです,It still fell. ,0,0,0
+29,Participant_003,ActiveItem,textResponse,もぎたての洋梨をエプロンのポケットからテーブルにあけました,He placed the freshly picked pears from his apron pocket onto the table.,0,0,0
+30,Participant_003,PassItem,textResponse,3人は次の仕事へ向かいます,The three people headed to their next job. ,0,0,0
+31,Participant_004,AgeQ,Age,68,,,,
+32,Participant_004,JapanQ,Japan,47,,,,
+33,Participant_004,ActiveItem,textResponse,男の人がロバを連れて歩いている。ロバは目の前の樽の中が気になる様子である。,A man is walking with a donkey. The donkey seems to be curious about what's inside the barrel in front of him.,0,0,0
+34,Participant_004,Filler,textResponse,馬に乗った二人の少年が正対して走っている。すれ違いざまに、一方の少年は他方の少年の帽子を取った。,"Two boys on horses are running directly opposite each other. As they passed each other, one boy picked up the other boy's hat.",0,0,0
+35,Participant_004,PassItem,textResponse,三人の子供が野山を散歩している。廻りには小鳥の鳴き声が聞こえる。,Three children are taking a walk in the fields. You can hear the chirping of small birds around.,0,0,0
+36,Participant_004,PassItem,textResponse,女の子が、木の上に飼っている鶏の卵を、梯子を使って取りに行く。,A girl uses a ladder to get eggs from a bird on a tree.,0,0,0
+37,Participant_004,ActiveItem,textResponse,農夫が林檎をエプロンの中から取り出した。,The farmer took out an apple from his apron.,0,0,0
+38,Participant_004,Filler,textResponse,自転車を曳いている子供は、後ろの誰かの口笛で振り向いた。,A child pulling a bicycle turned around when someone behind him whistled.,0,0,0
+39,Participant_004,Filler,textResponse,自転車の籠にリンゴを入れて走っていた少年は、一群の少年の前を通る時に転んで、林檎を道路に落としてしまった。,"A boy was running with an apple in the basket on his bicycle, and as he passed a group of boys, he fell and dropped the apple on the road.",0,0,0
+40,Participant_004,Filler,textResponse,よく見たらリンゴではなく、洋梨だった。落ちた洋梨は、見ていた少年たちも一緒に拾ってくれた。,"When I looked closely, it wasn't an apple, but a pear. The boys who were watching also picked up the pear that fell.",0,0,0
+41,Participant_005,AgeQ,Age,28,,,,
+42,Participant_005,JapanQ,Japan,24,,,,
+43,Participant_005,Filler,textResponse,自転車を引いて歩いている男の子が立ち止まって後ろを振り返ると、帽子を持った男の子がその子の方に向かって歩いてきている。2人の男の子が後ろからその様子を見ている。,"When a boy walking with a bicycle stops and looks back, he sees a boy holding a hat walking towards him. Two boys are watching from behind.",0,0,0
+44,Participant_005,PassItem,textResponse,自転車を弾いて歩いている男の子が後ろを振り返ると、帽子を持った男の子がその子に向かって歩いて行った。後ろに2人の男の子たちが後ろで見ている。,"When the boy who was riding his bicycle looked back, he saw a boy carrying a hat walking towards him. Two boys are watching from behind.",0,0,0
+45,Participant_005,PassItem,textResponse,,,,,
+46,Participant_005,ActiveItem,textResponse,,,,,
+47,Participant_005,ActiveItem,textResponse,,,,,
+48,Participant_005,Filler,textResponse,,,,,
+49,Participant_005,Filler,textResponse,,,,,
+50,Participant_005,Filler,textResponse,,,,,
+51,Participant_006,AgeQ,Age,28,,,,
+52,Participant_006,JapanQ,Japan,24,,,,
+53,Participant_006,Filler,textResponse,自転車を引いて歩いている男の子が後ろを振り返ると、帽子を持った別の男の子がその子に向かって歩いてきている。その様子を後ろに立って見ている男の子が二人いる。,"When a boy walking with a bicycle looks back, he sees another boy holding a hat walking toward him. There are two boys standing behind them watching the scene.",0,0,0
+54,Participant_006,Filler,textResponse,男の子が自転車から転倒して足を払っている。顔を見上げると、３人の男の子がいて、そのうちの一人は卓球のラケットのようなものを持っている。,"A boy falls off his bicycle and dusts off his leg. When I looked up, I saw three boys, one of whom was holding something like a table tennis racket.",0,0,0
+55,Participant_006,PassItem,textResponse,気が生い茂っている草原の中で、鶏の鳴き声が何度も聞こえる。,I can hear the chirping of birds over and over again in the overgrown grassland.,0,0,0
+56,Participant_006,ActiveItem,textResponse,男の人がロープを使って山羊を引いて籠のそばを歩いている。,"A man is walking by a basket, pulling a goat with a rope.",0,0,0
+57,Participant_006,Filler,textResponse,男の子二人が馬に乗って反対方向からお互いに向かって走っている。すれ違ったときに一人の男の子の帽子が脱げてしまった。,"Two boys are riding horses and running towards each other from opposite directions. As we passed each other, one boy's hat fell off.",0,0,0
+58,Participant_006,ActiveItem,textResponse,赤いハンカチを首に巻いた男性が、自分の着ているエプロンの上に集めたリンゴを机の上にほかのリンゴと一緒に並べている。,A man wearing a red handkerchief around his neck is collecting apples on his apron and arranging them with other apples on his desk.,0,1,0
+59,Participant_006,PassItem,textResponse,３人の男の子が奥に向かって道を歩いている。周りには茂みがあり、虫の音が聞こえる。,Three boys are walking down the road towards the back. There are bushes around and you can hear the sounds of insects.,0,0,0
+60,Participant_006,Filler,textResponse,一人の男のは自転車を支えているが、ほかの絵３人の男の子は籠に洋ナシを入れるのを手伝っている。,"One boy is supporting the bicycle, while the other three boys are helping to put pears in the basket.",0,0,0

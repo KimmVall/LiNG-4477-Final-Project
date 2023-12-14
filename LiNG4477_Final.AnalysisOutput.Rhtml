@@ -1,0 +1,69 @@
+<html>
+
+<head>
+<title>Data Analysis Output</title>
+</head>
+
+<body>
+
+<p>This repository contains the (anonymized) data and R scripts for reproducing all graphs and statistical models reported in "Preferences in Production of Utterances by Japanese Speakers".
+
+## Structuring and Visualization of Data
+
+For this document, we present our data already anonymized. Due to the unusual structure of data straight from pcIbex, and the difficulty we had processing this data by use of code, our data was processed and anonymized both manually and through RStudio.
+
+In the following section, we present the code used to calculate the means for ideophones, adverbs, and adjectives (known as "Value" in the dataset) for experimental and filler items. These are findings are visually represented in a graph.
+
+For reference, "PassItem" refers to experimental items consisting of passive-motion clips and "ActiveItem" of items with active-motion clips. "JapanQ" refers to the number of years participants lived in Japan, if they did. </p>
+
+<!--begin.rcode
+
+data.A <- read.csv("LiNG4477_cleandata.csv")
+
+library(dplyr)
+data.A %>% 
+  filter(Parameter.=="Final") %>%
+  group_by(Label) %>%
+  select(Participant_ID, Label, PennElementName., Value.) -> data.B
+
+# Downloading your data frame
+write.csv(data.B, file = "output_file.csv", row.names = TRUE)
+#clean.data$Label <- factor(clean.data$Label)
+
+# Customizing data for participant age histogram
+clean.data <- read.csv("output2_file.csv")
+clean.data %>%
+  filter(PennElementName.=="Age") %>%
+  select(Participant_ID, Value.) -> age.data
+age.data$Value. <- as.numeric(age.data$Value.)
+mean_age <- mean(age.data$Value.)
+
+clean.data %>%
+  filter(PennElementName.=="Japan") %>%
+  select(Participant_ID, Value.) -> Japan.data
+mean_Japan <- (c(24+24+47+24+30+0)/length(Japan.data$Value.))
+
+data.A %>%
+  filter(PennElementType.=="DropDown") %>%
+  select(Participant_ID, Value.) -> Language.data
+
+# Create a histogram
+library(ggplot2)
+histogram <- ggplot(age.data, aes(x = Value.)) +
+  geom_histogram(binwidth = 5, fill = "skyblue", color = "black", alpha = 0.7) +
+  labs(title = "Histogram of Participant Age", x = "Values", y = "Frequency") +
+  geom_vline(xintercept = mean_age, color = "red", linetype = "dashed", size = 1.5)
+
+print(histogram) 
+
+#Barplot for Ideophones, Adjectives, and Adverbs
+clean.data$Ideophone.Count <- as.numeric(clean.data$Ideophone.Count, na.rm = TRUE)
+clean.data$Adjective.Count <- as.numeric(clean.data$Adjective.Count, na.rm = TRUE)
+clean.data$Adverb.Count <- as.numeric(clean.data$Adverb.Count, na.rm = TRUE)
+#unable to create barplots due to lack of numerical data/ {Ideophone, Adjective, Adverb} usage
+end.rcode-->
+
+<p>## Conclusion
+
+This concludes the code and analysis for this study. The respective data files are included along with the submission of this document. Further discussion of this analysis can be found in the Results and Discussion Section.</p>
+
